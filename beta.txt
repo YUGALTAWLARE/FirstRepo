@@ -1,0 +1,1 @@
+This is new Commit txt file for Second log of commit 
